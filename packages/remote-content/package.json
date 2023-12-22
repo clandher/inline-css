@@ -22,6 +22,6 @@
   "dependencies": {
     "proxy-from-env": "^1.1.0",
     "superagent": "^8.0.9",
-    "superagent-proxy": "^3.0.0"
+    "superagent-proxy": "github:clandher/superagent-proxy#master"
   }
 }
