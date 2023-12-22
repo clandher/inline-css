@@ -9,7 +9,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "css-rules": "^1.1.0",
-    "extract-css": "ithub:clandher/extract-css#master",
+    "extract-css": "github:clandher/extract-css#master",
     "flat-util": "^1.1.9",
     "pick-util": "^1.1.5",
     "slick": "^1.12.2",
